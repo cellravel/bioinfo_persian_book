@@ -23,6 +23,30 @@
 - **_bookdown.yml**: فایل پیکربندی برای `bookdown`.
 - **index.Rmd**: مقدمه و صفحه اصلی کتاب.
 
+<!-- for dev. 
+📦 بیوانفورماتیک-برای-همه/
+ ┣ 📂 chapters/
+ ┃ ┣ 📜 chapter1-introduction.Rmd
+ ┃ ┣ 📜 chapter2-dna-sequencing.Rmd
+ ┃ ┗ 📜 ...
+ ┣ 📂 data/
+ ┃ ┣ 📜 example-data.csv
+ ┃ ┗ 📜 example-data2.fasta
+ ┣ 📂 images/
+ ┃ ┣ 📜 figure1.png
+ ┃ ┗ 📜 ...
+ ┣ 📂 scripts/
+ ┃ ┣ 📜 analysis-script.R
+ ┃ ┗ 📜 ...
+ ┣ 📂 docs/
+ ┃ ┣ 📜 references.bib
+ ┃ ┗ 📜 ...
+ ┣ 📜 README.md
+ ┣ 📜 _bookdown.yml
+ ┣ 📜 index.Rmd
+ ┗ 📜 LICENSE
+ 
+-->
 ## 🚀 شروع به کار
 این کتاب تحت زبان R و به کمک پکیج bookdown نوشته خواهد شد.
 برای شروع به کار با این پروژه:
@@ -86,3 +110,4 @@
 
 ## 📧 تماس
 اگر سوالی دارید یا نیاز به کمک دارید، می‌توانید با ما از طریق ایمیل در تماس باشید.
+arash.bagherabadi@gmail.com
