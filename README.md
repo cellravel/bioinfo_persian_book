@@ -110,7 +110,8 @@
    cd repo-name
    ```
 2. **نصب پیش‌نیازها و ساخت کتاب:**
-تحت RStudio و Quarto رقم خواهد خورد:
+تحت Quarto رقم خواهد خورد:
+
 https://quarto.org/docs/get-started/hello/rstudio.html   
 
 4. **مشاهده کتاب:**
