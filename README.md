@@ -1,3 +1,5 @@
+<div style="text-align: right;">
+
 **Perisan Bioinformatics and Computational Biology Book for Students**
 # 📘 از ژن تا سیلیکون  <img src="./images/cover v3.png" width="300px" hight="300px" align="left" /> 
 
@@ -161,3 +163,4 @@ https://quarto.org/docs/get-started/hello/rstudio.html
 اگر سوالی دارید یا نیاز به کمک دارید، می‌توانید با ما از طریق ایمیل در تماس باشید.
 arash.bagherabadi@gmail.com
 
+</div>
