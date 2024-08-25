@@ -137,7 +137,7 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 Got questions or need help? Reach out via email at arash.bagherabadi@gmail.com.
 
-```
+
 
 <!--
 # 📘 از ژن تا سیلیکون
@@ -253,9 +253,6 @@ Got questions or need help? Reach out via email at arash.bagherabadi@gmail.com.
 2. **نصب پیش‌نیازها و ساخت کتاب:**
 
 https://quarto.org/docs/get-started/hello/rstudio.html   
-
-4. **مشاهده کتاب:**
-   نسخه HTML کتاب در پوشه `_book/` ذخیره می‌شود. می‌توانید فایل `index.html` را در مرورگر خود باز کنید.
 
 ## 📈 نحوه همکاری
 ما از همکاری شما در این پروژه استقبال می‌کنیم! برای مشارکت در این پروژه مراحل زیر را دنبال کنید:
