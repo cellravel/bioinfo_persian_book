@@ -1,5 +1,146 @@
-**Perisan Bioinformatics and Computational Biology Book for Students**
-# 📘 از ژن تا سیلیکون <img src="./images/cover v3.png" width="300px" hight="300px" align="left" /> 
+# 📘 From Genes to Silicon
+## An Intro to Bioinformatics, Quantitative Biology, and Computational Biology for Students 
+
+> :warning: This project is still in the early planning stages.
+
+<img src="./images/cover v3.png" width="300px" hight="300px" align="center" /> 
+
+Welcome to "From Genes to Silicon"! This book is designed to introduce high school students (whether you're into math, physics, biology, or tech) and undergraduate STEM students to the fascinating world of bioinformatics, quantitative biology, and computational biology. We've broken down complex topics into simple, easy-to-understand language, with practical examples and exercises to help you really get the hang of it.
+
+**To make things easier as we go along, we'll refer to all three fields - bioinformatics, quantitative biology, and computational biology - simply as "bioinformatics" (or ["bioinfo"](https://www.linkedin.com/pulse/what-abbreviation-bioinformatics-arash-bagherabadi-yzhjf/) for short).**
+
+## 🎯 What You’ll Learn
+
+- The basics of bioinfo: what it is, why it matters, and how it’s used.
+- Real-life applications: how bioinfo is shaping the world around us.
+- Hands-on exercises: practice what you learn with exercises that build your skills.
+- Ongoing updates: we'll keep this book fresh with regular updates online with the help of community!
+
+# 📝 What’s Inside (Suggested Content for Now)
+
+## Chapter 1: What is Bioinformatics?
+- A quick history of bioinformatics
+- How bioinformatics plays a key role in biology
+- Everyday uses of bioinformatics
+
+## Chapter 2: Molecular Biology 101
+- The building blocks: DNA, RNA, and proteins
+- Key processes like DNA replication, transcription, and translation
+- An introduction to genomes and sequencing
+
+## Chapter 3: Exploring Biological Databases
+- Meet the major databases: GenBank, PDB, UniProt
+- How to find and use biological data online
+- Simple tools for analyzing biological data
+
+## Chapter 4: DNA and RNA Sequence Analysis
+- The basics of sequence analysis
+- Understanding sequence alignment and its uses
+- An intro to popular tools like BLAST and FASTA
+
+## Chapter 5: Predicting Protein Structure and Function
+- How scientists figure out protein structures
+- Where to find protein structure data
+- Using bioinformatics to predict what proteins do
+
+## Chapter 6: Analyzing Gene Expression Data
+- What are microarrays and RNA-Seq?
+- How to analyze gene expression to find patterns
+- Tools you can use for gene expression analysis
+
+## Chapter 7: Modeling Biological Networks
+- What are biological networks and why they matter
+- Digging into metabolic and signaling networks
+- Software tools for modeling these networks
+
+## Chapter 8: Personalized Medicine and Genomics
+- The basics of personalized medicine and genomics
+- How bioinformatics helps create personalized treatments
+- Key genomics projects like the Human Genome Project
+
+## Chapter 9: The Future of Bioinformatics
+- Challenges and opportunities in bioinformatics
+- What’s next for bioinformatics and computational biology
+- Careers and research opportunities in bioinformatics
+
+## 📂 Project Structure
+
+This project is organized as follows:
+
+- **chapters/**: Each chapter of the book in RMarkdown format.
+- **data/**: Sample data for exercises in the book.
+- **images/**: Images and diagrams used in the book.
+- **scripts/**: R scripts for the book's analyses.
+- **docs/**: References and sources for the book.
+- **README.md**: This file.
+- **_bookdown.yml**: Configuration file for `bookdown`.
+- **index.Rmd**: The intro and main page of the book.
+
+## 🚀 How to Get Started
+This book will be written using R programming language with the help of Quarto. To get started:
+
+1. **Clone the repository:**
+   Start by cloning the repo to your local machine:
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
+   ```
+2. **Install prerequisites and build the book:**
+
+   Follow the steps in the Quarto documentation to set up your environment:
+
+   https://quarto.org/docs/get-started/hello/rstudio.html   
+
+
+## 📈 How to Contribute
+We’d love your help with this project! Here’s how you can contribute:
+
+### Option 1
+Open an Issue to share your thoughts, ideas, or suggestions!
+
+### Option 2
+
+1. **Fork the repo:**
+   Create a Fork of this project on GitHub to work on your own version.
+
+2. **Create a new branch:**
+   Make a new branch for your changes to keep things organized:
+
+   ```bash
+   git checkout -b my-new-feature
+   ```
+
+3. **Make your changes:**
+   Add new chapters, tweak the content, or make other improvements using RMarkdown.
+
+4. **Commit your changes:**
+   After making your changes, commit them:
+
+   ```bash
+   git add .
+   git commit -m "Briefly describe your changes"
+   ```
+
+5. **Push your changes:**
+   Push your changes to your forked repo on GitHub:
+
+   ```bash
+   git push origin my-new-feature
+   ```
+
+6. **Submit a Pull Request:**
+   Go to the main repo and create a Pull Request so we can review your changes and merge them into the main project.
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## 📧 Contact
+Got questions or need help? Reach out via email at arash.bagherabadi@gmail.com.
+
+```
+
+<!--
+# 📘 از ژن تا سیلیکون
 
 > :warning: این پروژه در دست برنامه ریزی بوده و در مراحل اولیه اجرا به سر می برد
 
@@ -63,7 +204,7 @@
 
 ## 📂 ساختار پروژه
 
-<!-- for dev. 
+
 📦 بیوانفورماتیک-برای-همه/
  ┣ 📂 chapters/
  ┃ ┣ 📜 chapter1-introduction.Rmd
@@ -86,7 +227,7 @@
  ┣ 📜 index.Rmd
  ┗ 📜 LICENSE
 
--->
+
 این پروژه شامل بخش‌های زیر است:
 
 - **chapters/**: فایل‌های RMarkdown هر فصل از کتاب.
@@ -162,3 +303,4 @@ https://quarto.org/docs/get-started/hello/rstudio.html
 arash.bagherabadi@gmail.com
 
 
+-->
